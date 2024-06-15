@@ -5,11 +5,11 @@ Baladity is a cutting-edge application designed to bridge the communication gap 
 Here are some screenshots of our application:
 
 <p align="center">
- <img src="img/img1.jpg">
+ **<img src="img/img1.jpg">
  <img src="img/img2.jpg" >
  <img src="img/img3.jpg">
  <img src="img/img4.jpg">
-
+**
 </p>
 
 
