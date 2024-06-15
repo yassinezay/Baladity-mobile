@@ -6,7 +6,7 @@ Here are some screenshots of our application:
 
 <p align="center">
   <a href="" rel="noopener">
- <img src="img/img1.png" alt="Project logo"></a>
+ <img src="img/img1.jpg" alt="Project logo"></a>
 </p>
 
 
