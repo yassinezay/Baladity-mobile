@@ -1,0 +1,36 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "chat_message",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "reciver_id",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "user",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "time",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "type",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "uid",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

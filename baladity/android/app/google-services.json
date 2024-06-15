@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "120686985638",
+    "project_id": "baladity-9jp6y6",
+    "storage_bucket": "baladity-9jp6y6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120686985638:android:6ab22e5d1c1cf4dc408f67",
+        "android_client_info": {
+          "package_name": "edu.esprit.tn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120686985638-vpjos039li6a5llhbrmjmd1pppiceb8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.esprit.tn",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "120686985638-chlejs79frnf4g533qpj7ckc60p8f4kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg9ZgBj3s6V8l8ApL8Rth3c3SAnlcjwhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120686985638-chlejs79frnf4g533qpj7ckc60p8f4kn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "120686985638-1jielarccne1taqfhu6gq9r2kq93ikga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.esprit.tn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
